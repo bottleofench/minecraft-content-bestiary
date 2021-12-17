@@ -1,4 +1,5 @@
 [optimization]:https://github.com/bottleofench/my-mods-bestiary#оптимизация-1
+[kontent]:https://github.com/bottleofench/my-mods-bestiary#дополнительный-контент-1
 [starlight]:https://github.com/PaperMC/Starlight
 [krypton]:https://github.com/astei/krypton
 [alternate-current]:https://modrinth.com/mod/alternate-current
@@ -9,6 +10,9 @@
 [optifine]:https://optifine.net/home
 [optifabric]:https://www.curseforge.com/minecraft/mc-mods/optifabric
 [smoothboot]:https://modrinth.com/mod/smoothboot-fabric
+[plasmovoice]:https://modrinth.com/mod/plasmo-voice
+[create]:https://www.curseforge.com/minecraft/mc-mods/create
+[emotecraft]:https://modrinth.com/mod/emotecraft
 
 # Сборник модов на все случаи жизни (1.18)
 
@@ -17,6 +21,7 @@
 ## Разделы:
 
 ### [Оптимизация][optimization]
+### [Дополнительный контент][optimization]
 
 # Оптимизация
 
@@ -29,3 +34,9 @@
 #### [DynamicFPS][dynamic-fps] - мод, уменьшающий нагрузку на ПК, когда игра свёрнута методом понижения FPS.
 #### [Alternate Current][alternate-current] (Может быть не стабильным)  - мод, заменяющий ванильную механику редстоуна на очень быструю по производительности замену.
 #### [SmoothBoot][smoothboot] - мод, ускоряющий загрузку игры.
+
+# Дополнительный контент
+
+#### [PlasmoVoice][plasmovoice] - мод, добавляющий голосовой чат.
+#### [Create][create] - мод, добавляющий кучу разных механизмов.
+#### [Emotecraft][emotecraft] - мод, добавляющий голосовой чат.

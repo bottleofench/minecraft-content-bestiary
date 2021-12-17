@@ -13,7 +13,7 @@
 #### [Sodium](https://modrinth.com/mod/sodium) - замена Optifine на Fabric, без шейдеров, зума и т.д. Может повысить FPS выше, чем смог бы Optifine.
 #### [Iris](https://modrinth.com/mod/iris) - Sodium, но с поддержкой шейдеров.
 #### [Lithium](https://modrinth.com/mod/lithium) - мод, оптимизирующий половину механик в игре.
-#### [Krypton](https://github.com/astei/krypton) - мод, оптимизирующий соединения между клиентом и сервером.
+#### [Krypton](https://modrinth.com/mod/krypton) - мод, оптимизирующий соединения между клиентом и сервером.
 #### [Starlight](https://github.com/PaperMC/Starlight) - мод, который полностью перерабатывает световой движок с ванильного на свой, более оптимизированный.
 #### [C2ME](https://modrinth.com/mod/c2me-fabric) (Может быть не стабильным) - мод, ускоряющий загрузку чанков до немыслимых значений.
 #### [DynamicFPS](https://modrinth.com/mod/dynamic-fps) - мод, уменьшающий нагрузку на ПК, когда игра свёрнута методом понижения FPS.

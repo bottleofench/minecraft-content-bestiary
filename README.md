@@ -20,7 +20,6 @@
 #### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, заменяющий ванильную механику редстоуна на очень быструю по производительности замену.
 #### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) - мод, ускоряющий загрузку игры.
 #### [FerriteCore](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) - моды, уменьшающие использование ОЗУ.
-#### [Enhanced Block Entities](https://modrinth.com/mod/ebe) - мод, оптимизирующий прогрузку и отрисовку блок-энтити (сундуки и т.д.).
 
 # Дополнительный контент
 

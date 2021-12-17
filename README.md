@@ -24,4 +24,4 @@
 
 #### [PlasmoVoice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
 #### [Create](https://www.curseforge.com/minecraft/mc-mods/create) - мод, добавляющий кучу разных механизмов.
-#### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий голосовой чат.
+#### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий эмоции (различный позы и т.д.).

@@ -1,4 +1,4 @@
-[optimization]:https://github.com/bottleofench/my-mods-bestiary#оптимизация
+[optimization]:https://github.com/bottleofench/my-mods-bestiary#оптимизация-1
 [starlight]:https://github.com/PaperMC/Starlight
 [krypton]:https://github.com/astei/krypton
 

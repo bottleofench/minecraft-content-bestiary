@@ -5,6 +5,7 @@
 [c2me]:https://modrinth.com/mod/c2me-fabric
 [dynamic-fps]:https://modrinth.com/mod/dynamic-fps
 [sodium]:https://modrinth.com/mod/sodium
+[iris]:https://modrinth.com/mod/iris
 
 # Сборник модов на все случаи жизни (1.18)
 

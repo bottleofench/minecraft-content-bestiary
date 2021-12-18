@@ -25,7 +25,6 @@
 
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [PlasmoVoice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
-#### [Create](https://www.curseforge.com/minecraft/mc-mods/create) - мод, добавляющий кучу разных механизмов.
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.

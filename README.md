@@ -32,9 +32,9 @@
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) - мод, добавляющий дин. освещение (Дополнение к Содиуму).
 #### [CIT Resewn](https://modrinth.com/mod/cit-resewn) - мод, добавляющий поддержку ресурспаков с переименованием (Фишка Оптифайна) (Дополнение к Содиуму).
-#### [OkZoomer](https://modrinth.com/mod/ok-zoomer) - мод, добавляющий зум, который можно приближать даже сильно чем в Оптифайне (Дополнение к Содиуму).
+#### [OkZoomer](https://modrinth.com/mod/ok-zoomer) - мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне (Дополнение к Содиуму).
 #### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь.
 #### [PlasmoVoice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
-#### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий эмоции (различные позы и т.д.).
+#### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий различные эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.

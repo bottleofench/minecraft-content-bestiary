@@ -1,6 +1,6 @@
 # Сборник модов на все случаи жизни (1.18)
 
-#### Со времен данный список будет пополняться. Также большая часть модов идёт на Fabric. Также я буду очень благодарен, если вы будете предлагать новые моды в список, либо находить ошибки и о них сообщать. Приятной игры в Minecraft!
+#### Со времен данный список будет пополняться. Также большая часть модов идёт на Fabric. Также я буду очень благодарен, если вы будете предлагать новые моды в список, либо находить ошибки и о них сообщать. В будущем будет больше разделов.
 
 ## Разделы:
 
@@ -21,10 +21,14 @@
 #### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, заменяющий ванильную механику редстоуна на очень быструю по производительности замену.
 #### [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.)
 #### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) и [DashLoader](https://modrinth.com/mod/dashloader) - моды ускоряющие загрузку игры.
-#### [FerriteCore](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) - моды, уменьшающие использование ОЗУ.
+#### [FerriteCore](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) (Могут быть не стабильными) - моды, уменьшающие использование ОЗУ.
+#### [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) - мод, уменьшающий лаги с печками.
+#### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (Может быть не стабильным) - мод, ускоряющий загрузку мира.
+#### [Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) - мод, уменьшающий лаги с нотными блоками.
 
 # Дополнительный контент
 
+#### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - мод, позволяющий настраивать огромную кучу ванильных механик.
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) - мод, добавляющий дин. освещение (Дополнение к Содиуму).
 #### [CIT Resewn](https://modrinth.com/mod/cit-resewn) - мод, добавляющий поддержку ресурспаков с переименованием (Фишка Оптифайна) (Дополнение к Содиуму).
@@ -34,3 +38,4 @@
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.
+#### [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - мод, исправляющий эксплоит с жителями (когда вы можете покупать любые вещи за 1 изумруд)

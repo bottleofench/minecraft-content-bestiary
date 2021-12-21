@@ -20,7 +20,7 @@
 #### [DynamicFPS](https://modrinth.com/mod/dynamic-fps) - мод, уменьшающий нагрузку на ПК, когда игра свёрнута методом понижения FPS.
 #### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, заменяющий ванильную механику редстоуна на очень быструю по производительности замену.
 #### [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.)
-#### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) и [DashLoader](https://modrinth.com/mod/dashloader) - моды ускоряющие загрузку игры.
+#### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) - мод, ускоряющий загрузку игры.
 #### [FerriteCore](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) (Могут быть не стабильными) - моды, уменьшающие использование ОЗУ.
 #### [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) - мод, уменьшающий лаги с печками.
 #### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (Может быть не стабильным) - мод, ускоряющий загрузку мира.
@@ -38,4 +38,3 @@
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.
-#### [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - мод, исправляющий эксплоит с жителями (когда вы можете покупать любые вещи за 1 изумруд)

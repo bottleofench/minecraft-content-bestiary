@@ -5,8 +5,8 @@
 ## Разделы:
 
 ### [Оптимизация](https://github.com/bottleofench/my-mods-bestiary#оптимизация-1)
-### [Замена Optifine](https://github.com/bottleofench/my-mods-bestiary#дополнительный-контент-1)
-### [Дополнительный контент](https://github.com/bottleofench/my-mods-bestiary#замена-optifine-1)
+### [Замена Optifine](https://github.com/bottleofench/my-mods-bestiary#замена-optifine-1)
+### [Дополнительный контент](https://github.com/bottleofench/my-mods-bestiary#дополнительный-контент-1)
 
 # Оптимизация
 

@@ -4,11 +4,13 @@
 
 #### Со времен данный список будет пополняться. Также большая часть модов идёт на Fabric. Также я буду очень благодарен, если вы будете предлагать новые моды в список, либо находить ошибки и о них сообщать. В будущем будет больше разделов.
 
+### ДЛЯ ТОГО, ЧТОБЫ ПЕРЕЙТИ НА СТРАНИЦУ МОДА, ДОСТАТОЧНО НАЖАТЬ НА ЕГО НАЗВАНИЕ!!
+
 ## Разделы:
 
 ### [Оптимизация](https://github.com/bottleofench/my-mods-bestiary#оптимизация-1)
 ### [Замена Optifine](https://github.com/bottleofench/my-mods-bestiary#замена-optifine-1)
-### [Дополнительный контент](https://github.com/bottleofench/my-mods-bestiary#дополнительный-контент-1)
+### [Остальные моды](https://github.com/bottleofench/my-mods-bestiary#остальные-моды-1)
 
 # Оптимизация
 
@@ -25,6 +27,7 @@
 #### [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) - мод, уменьшающий лаги с печками.
 #### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (Может быть не стабильным) - мод, ускоряющий загрузку мира при заходе.
 #### [Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) - мод, уменьшающий лаги с нотными блоками.
+#### [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - мод, оптимизирующий рендеринг листвы (оптимизирует текстуры).
 
 # Замена Optifine
 Здесь представлен список модов, которые в совокупности могут с легкостью заменить Optifine на Fabric.
@@ -36,12 +39,19 @@
 #### [CIT Resewn](https://modrinth.com/mod/cit-resewn) - мод, добавляющий поддержку ресурспаков с переименованием.
 #### [OkZoomer](https://modrinth.com/mod/ok-zoomer) - мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне.
 
-# Дополнительный контент
+# Остальные моды
 
+#### [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - классика.
+#### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - мод, который улучшает F3 (меню отладки).
+#### [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - мод, позволяющий включяить показ оверлея, с помощью которого можно увидеть освещение на блоках.
 #### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - мод, позволяющий настраивать огромную кучу ванильных механик.
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь.
+#### [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - мод, добавляющий бинды на команды.
 #### [PlasmoVoice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий различные эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.
+#### [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) - мод, добавляющий выбор класса для игры (человек, какой-то монстр и т.д.)
+#### [Аддоны для Origins] - [ExtraOrigins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [OriginsClasses](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
+#### Моды на звуки: [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [SoundFilters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [SoundPhysics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)

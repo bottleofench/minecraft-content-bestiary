@@ -53,5 +53,5 @@
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.
 #### [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) - мод, добавляющий выбор класса для игры (человек, какой-то монстр и т.д.)
-#### [Аддоны для Origins] - [ExtraOrigins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [OriginsClasses](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
+#### Аддоны для Origins - [ExtraOrigins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [OriginsClasses](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
 #### Моды на звуки: [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [SoundFilters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [SoundPhysics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)

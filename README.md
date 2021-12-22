@@ -1,6 +1,6 @@
 # Сборник модов на все случаи жизни (1.18)
 
-### [English Version](https://github.com/bottleofench/my-mods-bestiary/english.md)
+### [English Version](https://github.com/bottleofench/my-mods-bestiary/blob/main/english.md)
 
 #### Со времен данный список будет пополняться. Также большая часть модов идёт на Fabric. Также я буду очень благодарен, если вы будете предлагать новые моды в список, либо находить ошибки и о них сообщать. В будущем будет больше разделов.
 

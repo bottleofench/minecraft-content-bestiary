@@ -15,7 +15,7 @@
 # Оптимизация
 
 #### [Optifine](https://optifine.net/home) - классика. (Для работы на Fabric нужен [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric))
-#### [Lithium](https://modrinth.com/mod/lithium) - мод, оптимизирующий половину механик в игре.
+#### [Lithium](https://modrinth.com/mod/lithium) - мод, оптимизирующий кучу ванильных механик в сторону огромнейшей производительности.
 #### [Krypton](https://modrinth.com/mod/krypton) - мод, оптимизирующий соединения между клиентом и сервером. Также содержит различные микро-оптимизации, а также уменьшение использования ОЗУ.
 #### [Starlight](https://modrinth.com/mod/starlight) - мод, который полностью перерабатывает световой движок с ванильного на свой, более оптимизированный.
 #### [C2ME](https://modrinth.com/mod/c2me-fabric) (Может быть не стабильным) - мод, ускоряющий загрузку чанков до немыслимых значений.
@@ -23,8 +23,8 @@
 #### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, заменяющий ванильную механику редстоуна на очень быструю по производительности замену.
 #### [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.)
 #### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) - мод, ускоряющий загрузку игры.
-#### [FerriteCore](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) (Могут быть не стабильными) - моды, уменьшающие использование ОЗУ.
-#### [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) - мод, уменьшающий лаги с печками.
+#### [Ferrite Core](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) (Могут быть не стабильными) - моды, уменьшающие использование ОЗУ.
+#### [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) - мод, уменьшающий лаги с печками.
 #### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (Может быть не стабильным) - мод, ускоряющий загрузку мира при заходе.
 #### [Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) - мод, уменьшающий лаги с нотными блоками.
 #### [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - мод, оптимизирующий рендеринг листвы (оптимизирует текстуры).
@@ -33,11 +33,11 @@
 Здесь представлен список модов, которые в совокупности могут с легкостью заменить Optifine на Fabric.
 
 #### [Sodium](https://modrinth.com/mod/sodium) - замена Optifine на Fabric, без шейдеров, зума и т.д. Может повысить FPS выше, чем смог бы Optifine. Не работает с Оптифайном.
-#### [SodiumExtra](https://modrinth.com/mod/sodium-extra) - дополнение к Содиуму с кучей новых фишек.
+#### [Sodium Extra](https://modrinth.com/mod/sodium-extra) - дополнение к Содиуму с кучей новых фишек.
 #### [Iris](https://modrinth.com/mod/iris) - Sodium, но с поддержкой шейдеров.
 #### [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) - мод, добавляющий дин. освещение.
 #### [CIT Resewn](https://modrinth.com/mod/cit-resewn) - мод, добавляющий поддержку ресурспаков с переименованием.
-#### [OkZoomer](https://modrinth.com/mod/ok-zoomer) - мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне.
+#### [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) - мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне.
 
 # Остальные моды
 
@@ -48,10 +48,10 @@
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь.
 #### [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - мод, добавляющий бинды на команды.
-#### [PlasmoVoice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
+#### [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий различные эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.
 #### [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) - мод, добавляющий выбор класса для игры (человек, какой-то монстр и т.д.)
-#### Аддоны для Origins - [ExtraOrigins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [OriginsClasses](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
-#### Моды на звуки: [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [SoundFilters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [SoundPhysics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
+#### Аддоны для Origins - [Extra Origins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [Origins Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
+#### Моды на звуки: [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)

@@ -49,7 +49,7 @@
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь.
 #### [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - мод, добавляющий бинды на команды.
-#### [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат.
+#### [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат. (Альтернатива: [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий различные эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.

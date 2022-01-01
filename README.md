@@ -20,7 +20,7 @@
 #### [Starlight](https://modrinth.com/mod/starlight) - мод, который полностью перерабатывает световой движок с ванильного на свой, более оптимизированный.
 #### [C2ME](https://modrinth.com/mod/c2me-fabric) (Может быть не стабильным) - мод, ускоряющий загрузку чанков до немыслимых значений.
 #### [DynamicFPS](https://modrinth.com/mod/dynamic-fps) - мод, уменьшающий нагрузку на ПК, когда игра свёрнута методом понижения FPS.
-#### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, заменяющий ванильную механику редстоуна на очень быструю по производительности замену.
+#### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, переписывающий движок редстоуна на наиболее быстрый и производительный..
 #### [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.)
 #### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) - мод, ускоряющий загрузку игры.
 #### [Ferrite Core](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) (Могут быть не стабильными) - моды, уменьшающие использование ОЗУ.

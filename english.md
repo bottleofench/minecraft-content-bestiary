@@ -30,6 +30,9 @@
 #### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (May be unstable) - mod that speeds up the loading of the world when entering.
 #### [Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) - mod that reduces lags with note blocks.
 #### [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - mod that optimizing leaves rendering (texture optimizing).
+#### [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) - mod that adds some optimizations, as well as new features for the game.
+#### [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - mod that reduces lags directly related to the AI of mobs.
+#### [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement) - mod that reduces the lags related to workbenches.
 
 # Replacements of Optifine
 Here is a list of mods that together can easily replace Optifine on Fabric.
@@ -46,6 +49,7 @@ Here is a list of mods that together can easily replace Optifine on Fabric.
 #### [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - classic.
 #### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - mod that improves F3 (debug screen).
 #### [Stendhal](https://modrinth.com/mod/stendhal) - mod that adds the ability to edit books in the game most conveniently.
+#### [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - mod-profiler, allows you to profile the game, and then watch because of what there were lags.
 #### [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - mod that allows you to enable the display of an overlay, with which you can see the light level of blocks.
 #### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - mod that allows you to customize a huge bunch of vanilla mechanics.
 #### [ModMenu](https://modrinth.com/mod/modmenu) - mod that allows you to view and configure other mods in a separate menu.

@@ -1,4 +1,4 @@
-# Сборник модов на все случаи жизни (1.18)
+# Сборник модов на все случаи жизни (1.18.1)
 
 ### [English Version](https://github.com/bottleofench/my-mods-bestiary/blob/main/english.md)
 

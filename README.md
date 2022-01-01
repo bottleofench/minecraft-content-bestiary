@@ -43,6 +43,7 @@
 
 #### [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - классика.
 #### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - мод, который улучшает F3 (меню отладки).
+#### [Stendhal](https://modrinth.com/mod/stendhal) - мод, добавляющий возможность наиболее удобно редактировать книги в игре.
 #### [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - мод, позволяющий включяить показ оверлея, с помощью которого можно увидеть освещение на блоках.
 #### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - мод, позволяющий настраивать огромную кучу ванильных механик.
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.

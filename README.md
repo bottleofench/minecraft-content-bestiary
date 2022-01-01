@@ -28,6 +28,9 @@
 #### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (Может быть не стабильным) - мод, ускоряющий загрузку мира при заходе.
 #### [Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) - мод, уменьшающий лаги с нотными блоками.
 #### [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - мод, оптимизирующий рендеринг листвы (оптимизирует текстуры).
+#### [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) - мод, добавляющий некоторые оптимизации, а также новые фишки для игры.
+#### [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - мод, уменьшающий лаги, непросредственно связанные с искусственным интеллектом мобов.
+#### [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement) - мод, уменьшающий лаги, связанные с верстаками.
 
 # Замена Optifine
 Здесь представлен список модов, которые в совокупности могут с легкостью заменить Optifine на Fabric.
@@ -44,6 +47,7 @@
 #### [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - классика.
 #### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - мод, который улучшает F3 (меню отладки).
 #### [Stendhal](https://modrinth.com/mod/stendhal) - мод, добавляющий возможность наиболее удобно редактировать книги в игре.
+#### [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - мод-профайлер, позволяет профайлить игру, и впоследствии смотреть из-за чего были те, или иные лаги.
 #### [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - мод, позволяющий включяить показ оверлея, с помощью которого можно увидеть освещение на блоках.
 #### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - мод, позволяющий настраивать огромную кучу ванильных механик.
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.

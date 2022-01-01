@@ -1,4 +1,4 @@
-# Collection of mods for every taste (1.18)
+# Collection of mods for every taste (1.18.1)
 
 ### [Russian Version](https://github.com/bottleofench/my-mods-bestiary)
 

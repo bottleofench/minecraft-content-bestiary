@@ -53,12 +53,12 @@ Here is a list of mods that together can easily replace Optifine on Fabric.
 #### [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - mod that allows you to enable the display of an overlay, with which you can see the light level of blocks.
 #### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - mod that allows you to customize a huge bunch of vanilla mechanics.
 #### [ModMenu](https://modrinth.com/mod/modmenu) - mod that allows you to view and configure other mods in a separate menu.
-#### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - mod that adds a hood on the screen, allowing you to view the strength of armor and tools without looking into the inventory.
+#### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - mod that adds a hud on the screen, allowing you to view the durability of armor and tools without looking into the inventory.
 #### [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - mod that adds binds to commands.
 #### [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) - mod that adds voice chat. (Alternative: [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - mod that adds different emotions (various poses etc.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) -  mod that facilitates trading with villagers.
-#### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - mod that adds some content from Minecraft: Bedrock Edition.
+#### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - mod that adds some new content from Minecraft: Bedrock Edition.
 #### [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) - mod that adds a class selection for the game (human, some kind of monster, etc.)
 #### Addons for Origins - [Extra Origins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [Origins Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
 #### Sound mods: [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)

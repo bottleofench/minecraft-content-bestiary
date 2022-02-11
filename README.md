@@ -1,36 +1,31 @@
-# Сборник модов на любой вкус (1.18.1)
+# Таблица модов на любой вкус (1.18.1)
 
 ### [English Version](https://github.com/bottleofench/my-mods-bestiary/blob/main/english.md)
 
-#### Со временем данный список будет пополняться. Также большая часть модов идёт на Fabric. Также я буду очень благодарен, если вы будете предлагать новые моды в список, либо находить ошибки и о них сообщать. В будущем будет больше разделов.
+#### Со временем таблица будет пополняться. Также я буду очень благодарен, если вы будете предлагать новые моды в таблицу, либо находить ошибки и о них сообщать. В будущем будет больше разделов.
 
-### ДЛЯ ТОГО, ЧТОБЫ ПЕРЕЙТИ НА СТРАНИЦУ МОДА, ДОСТАТОЧНО НАЖАТЬ НА ЕГО НАЗВАНИЕ!!
+#### Примечание: `*` - не стабильный
 
-## Разделы:
-
-### [Оптимизация](https://github.com/bottleofench/my-mods-bestiary#оптимизация-1)
-### [Замена Optifine](https://github.com/bottleofench/my-mods-bestiary#замена-optifine-1)
-### [Остальные моды](https://github.com/bottleofench/my-mods-bestiary#остальные-моды-1)
-
-# Оптимизация
-
-#### [Optifine](https://optifine.net/home) - классика. (Для работы на Fabric нужен [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric))
-#### [Lithium](https://modrinth.com/mod/lithium) - мод, оптимизирующий кучу ванильных механик в сторону огромнейшей производительности.
-#### [Krypton](https://modrinth.com/mod/krypton) - мод, оптимизирующий соединения между клиентом и сервером. Также содержит различные микро-оптимизации, а также уменьшение использования ОЗУ.
-#### [Starlight](https://modrinth.com/mod/starlight) - мод, который полностью перерабатывает световой движок с ванильного на свой, более оптимизированный.
-#### [C2ME](https://modrinth.com/mod/c2me-fabric) (Может быть не стабильным) - мод, ускоряющий загрузку чанков до немыслимых значений.
-#### [DynamicFPS](https://modrinth.com/mod/dynamic-fps) - мод, уменьшающий нагрузку на ПК, когда игра свёрнута методом понижения FPS.
-#### [Alternate Current](https://modrinth.com/mod/alternate-current) (Может быть не стабильным)  - мод, переписывающий движок редстоуна на наиболее быстрый и производительный..
-#### [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.)
-#### [SmoothBoot](https://modrinth.com/mod/smoothboot-fabric) - мод, ускоряющий загрузку игры.
-#### [Ferrite Core](https://modrinth.com/mod/ferrite-core) и [Hydrogen](https://modrinth.com/mod/hydrogen) (Могут быть не стабильными) - моды, уменьшающие использование ОЗУ.
-#### [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) - мод, уменьшающий лаги с печками.
-#### [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) (Может быть не стабильным) - мод, ускоряющий загрузку мира при заходе.
-#### [Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) - мод, уменьшающий лаги с нотными блоками.
-#### [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - мод, оптимизирующий рендеринг листвы (оптимизирует текстуры).
-#### [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) - мод, добавляющий некоторые оптимизации, а также новые фишки для игры.
-#### [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - мод, уменьшающий лаги, непросредственно связанные с искусственным интеллектом мобов.
-#### [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement) - мод, уменьшающий лаги, связанные с верстаками.
+Название мода | Специализация | Описание | Загрузчик | Версии игры 
+--- | --- | --- | --- | --- 
+[Optifine](https://optifine.net/home)| Оптимизация | Классика. | Forge / Fabric (Нужен [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)) | 1.7.2+
+[Lithium](https://modrinth.com/mod/lithium)| Оптимизация | Мод, оптимизирующий кучу ванильных механик в сторону огромнейшей производительности. | Fabric | 1.16+ 
+[Krypton](https://modrinth.com/mod/krypton)| Оптимизация | Мод, оптимизирующий соединения между клиентом и сервером. Также содержит различные микро-оптимизации, а также уменьшение использования ОЗУ. | Fabric | 1.16.5+
+[Starlight](https://modrinth.com/mod/starlight)| Оптимизация | Мод, который полностью перерабатывает световой движок с ванильного на свой, более оптимизированный. | Fabric | 1.17+
+[C2ME `*`](https://modrinth.com/mod/c2me-fabric)| Оптимизация | Мод, ускоряющий загрузку чанков до немыслимых значений. | Fabric | 1.17+
+[Alternate Current `*`](https://modrinth.com/mod/alternate-current)| Оптимизация | мод, переписывающий движок редстоуна на наиболее быстрый и производительный. | Fabric | 1.17+
+[Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)| Оптимизация | Мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.) | Fabric | 1.17+
+[DynamicFPS](https://modrinth.com/mod/dynamic-fps)| Оптимизация | Мод, уменьшающий нагрузку на ПК, когда игра свёрнута методом понижения FPS. | Fabric | 1.17+
+[SmoothBoot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)| Оптимизация | Мод, ускоряющий загрузку игры. | Fabric | 1.17+
+[Ferrite Core `*`](https://modrinth.com/mod/ferrite-core) / [Hydrogen `*`](https://modrinth.com/mod/hydrogen)| Оптимизация | Моды, уменьшающие использование ОЗУ. | Fabric | 1.17+
+[Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)| Оптимизация | Мод, уменьшающий лаги с печками. | Forge / Fabric | 1.17+
+[Ksyxis `*`](https://www.curseforge.com/minecraft/mc-mods/ksyxis)| Оптимизация | Мод, ускоряющий загрузку мира при заходе. | Forge | 1.17+
+[Client Side Noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks)| Оптимизация | Мод, уменьшающий лаги с нотными блоками. | Fabric | 1.16.5+
+[Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)| Оптимизация | Мод, оптимизирующий рендеринг листвы (оптимизирует текстуры). | Fabric | 1.17+
+[RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)| Оптимизация | Мод, добавляющий некоторые оптимизации, а также новые фишки для игры. | Fabric | 1.15.2 - 1.16.5
+[AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)| Оптимизация | Мод, уменьшающий лаги, непросредственно связанные с искусственным интеллектом мобов. | Forge | 1.7.10+
+[FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)| Оптимизация | Мод, уменьшающий лаги, связанные с верстаками. | Fabric | 1.16.5
+[WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)| Строительство | Классика. | Forge / Fabric | 1.7.2+
 
 # Замена Optifine
 Здесь представлен список модов, которые в совокупности могут с легкостью заменить Optifine на Fabric.
@@ -44,7 +39,6 @@
 
 # Остальные моды
 
-#### [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - классика.
 #### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - мод, который улучшает F3 (меню отладки).
 #### [Stendhal](https://modrinth.com/mod/stendhal) - мод, добавляющий возможность наиболее удобно редактировать книги в игре.
 #### [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - мод-профайлер, позволяет профайлить игру, и впоследствии смотреть из-за чего были те, или иные лаги.

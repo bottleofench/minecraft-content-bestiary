@@ -1,6 +1,6 @@
 # Таблица модов на любой вкус
 
-### [English Version](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/mods/mods-list_en.md)
+### [English Version](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/mods/mods_en.md)
 
 #### Со временем таблица будет пополняться. Также я буду очень благодарен, если вы будете предлагать новые моды в таблицу, либо находить ошибки и о них сообщать.
 
@@ -28,24 +28,18 @@
 [Sodium](https://modrinth.com/mod/sodium) -> [Iris](https://modrinth.com/mod/iris) | Оптимизация | Замена Optifine на Fabric. Может повысить FPS выше, чем смог бы Optifine. Не работает с Оптифайном. | Fabric | 1.17+
 [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)| Облегчение игры | Дин. освещение без Optifine. | Fabric | 1.17+
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)| Строительство | Классика. | Forge / Fabric | 1.7.2+
-[CIT Resewn](https://modrinth.com/mod/cit-resewn)| Строительство | Мод, добавляющий поддержку ресурспаков с переименованием. | Fabric | 1.17+
-[Ok Zoomer](https://modrinth.com/mod/ok-zoomer)| Строительство | Мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне. | Fabric | 1.17+
-[Plasmo Voice](https://modrinth.com/mod/plasmo-voice)| Дополнительный контент | Мод, добавляющий голосовой чат. | Forge / Fabric | 1.16.5+
-
-# Остальные моды
-
-#### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - мод, который улучшает F3 (меню отладки).
-#### [Stendhal](https://modrinth.com/mod/stendhal) - мод, добавляющий возможность наиболее удобно редактировать книги в игре.
-#### [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - мод-профайлер, позволяет профайлить игру, и впоследствии смотреть из-за чего были те, или иные лаги.
-#### [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - мод, позволяющий включяить показ оверлея, с помощью которого можно увидеть освещение на блоках.
-#### [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - мод, позволяющий настраивать огромную кучу ванильных механик.
-#### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
-#### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь.
-#### [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - мод, добавляющий бинды на команды.
-#### [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
-#### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий различные эмоции (различные позы и т.д.).
-#### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
-#### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.
-#### [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) - мод, добавляющий выбор класса для игры (человек, какой-то монстр и т.д.)
-#### Аддоны для Origins - [Extra Origins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [Origins Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins).
-#### Моды на звуки: [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
+[CIT Resewn](https://modrinth.com/mod/cit-resewn)| Утилита | Мод, добавляющий поддержку ресурспаков с переименованием. | Fabric | 1.17+
+[Ok Zoomer](https://modrinth.com/mod/ok-zoomer)| Утилита | Мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне. | Fabric | 1.17+
+[Plasmo Voice](https://modrinth.com/mod/plasmo-voice) и [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)| Дополнительный контент | Моды, добавляющий голосовой чат. | Forge / Fabric | 1.16.5+
+[BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)| Утилита | Мод, который улучшает F3 (меню отладки). | Forge / Fabric | 1.16.5+
+[Stendhal](https://modrinth.com/mod/stendhal)| Утилита | Мод, добавляющий возможность наиболее удобно редактировать книги в игре. | Forge / Fabric | 1.16.5+
+[Spark](https://www.curseforge.com/minecraft/mc-mods/spark)| Утилита | Мод-профайлер, позволяет профайлить игру, и впоследствии смотреть из-за чего были те, или иные лаги. | Forge / Fabric | 1.16.5+
+[Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)| Утилита | Мод, позволяющий включяить показ оверлея, с помощью которого можно увидеть освещение на блоках. | Forge / Fabric | 1.16.5+
+[Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)| Утилита | Мод, позволяющий настраивать огромную кучу ванильных механик. | Fabric | 1.16.5+
+[ModMenu](https://modrinth.com/mod/modmenu)| Утилита | Мод, позволяющий просматривать и настраивать другие моды в отдельном меню. | Fabric | 1.16.5+
+[Durability Viewer](https://modrinth.com/mod/durabilityviewer)| Утилита | Мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь. | Forge / Fabric | 1.16.5+
+[Origins](https://www.curseforge.com/minecraft/mc-mods/origins) -> [Extra Origins](https://www.curseforge.com/minecraft/mc-mods/extra-origins), [Origins Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins)| Дополнительный контент | Мод, добавляющий выбор класса для игры (человек, какой-то монстр и т.д.) | Forge / Fabric | 1.16.5+
+[Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings), [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters), [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium), [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)| Дополнительный контент | Моды, добавляющие множество различных новых звуков, придающих атмосферу игре. | Forge / Fabric | 1.16.5+
+[Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros)| Утилита | Мод, добавляющий бинды на команды. | Fabric | 1.16.5+
+[Emotecraft](https://modrinth.com/mod/emotecraft)| Дополнительный контент | Мод, добавляющий различные эмоции (различные позы и т.д.). | Fabric | 1.16.5+
+[Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading)| Утилита | Мод, облегчающий трейдинг с жителями. | Fabric | 1.16.5+

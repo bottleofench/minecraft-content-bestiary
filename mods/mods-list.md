@@ -1,8 +1,8 @@
-# Таблица модов на любой вкус (1.18.1)
+# Таблица модов на любой вкус
 
-### [English Version](https://github.com/bottleofench/my-mods-bestiary/blob/main/english.md)
+### [English Version](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/mods/mods-list_en.md)
 
-#### Со временем таблица будет пополняться. Также я буду очень благодарен, если вы будете предлагать новые моды в таблицу, либо находить ошибки и о них сообщать. В будущем будет больше разделов.
+#### Со временем таблица будет пополняться. Также я буду очень благодарен, если вы будете предлагать новые моды в таблицу, либо находить ошибки и о них сообщать.
 
 #### Примечание: `*` - не стабильный
 
@@ -25,17 +25,12 @@
 [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)| Оптимизация | Мод, добавляющий некоторые оптимизации, а также новые фишки для игры. | Fabric | 1.15.2 - 1.16.5
 [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)| Оптимизация | Мод, уменьшающий лаги, непросредственно связанные с искусственным интеллектом мобов. | Forge | 1.7.10+
 [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)| Оптимизация | Мод, уменьшающий лаги, связанные с верстаками. | Fabric | 1.16.5
+[Sodium](https://modrinth.com/mod/sodium) -> [Iris](https://modrinth.com/mod/iris) | Оптимизация | Замена Optifine на Fabric. Может повысить FPS выше, чем смог бы Optifine. Не работает с Оптифайном. | Fabric | 1.17+
+[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)| Облегчение игры | Дин. освещение без Optifine. | Fabric | 1.17+
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)| Строительство | Классика. | Forge / Fabric | 1.7.2+
-
-# Замена Optifine
-Здесь представлен список модов, которые в совокупности могут с легкостью заменить Optifine на Fabric.
-
-#### [Sodium](https://modrinth.com/mod/sodium) - замена Optifine на Fabric, без шейдеров, зума и т.д. Может повысить FPS выше, чем смог бы Optifine. Не работает с Оптифайном.
-#### [Sodium Extra](https://modrinth.com/mod/sodium-extra) - дополнение к Содиуму с кучей новых фишек.
-#### [Iris](https://modrinth.com/mod/iris) - Sodium, но с поддержкой шейдеров.
-#### [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) - мод, добавляющий дин. освещение.
-#### [CIT Resewn](https://modrinth.com/mod/cit-resewn) - мод, добавляющий поддержку ресурспаков с переименованием.
-#### [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) - мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне.
+[CIT Resewn](https://modrinth.com/mod/cit-resewn)| Строительство | Мод, добавляющий поддержку ресурспаков с переименованием. | Fabric | 1.17+
+[Ok Zoomer](https://modrinth.com/mod/ok-zoomer)| Строительство | Мод, добавляющий зум, который можно приближать даже сильнее, чем в Оптифайне. | Fabric | 1.17+
+[Plasmo Voice](https://modrinth.com/mod/plasmo-voice)| Дополнительный контент | Мод, добавляющий голосовой чат. | Forge / Fabric | 1.16.5+
 
 # Остальные моды
 
@@ -47,7 +42,7 @@
 #### [ModMenu](https://modrinth.com/mod/modmenu) - мод, позволяющий просматривать и настраивать другие моды в отдельном меню.
 #### [Durability Viewer](https://modrinth.com/mod/durabilityviewer) - мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь.
 #### [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - мод, добавляющий бинды на команды.
-#### [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) - мод, добавляющий голосовой чат. (Альтернатива: [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
+#### [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 #### [Emotecraft](https://modrinth.com/mod/emotecraft) - мод, добавляющий различные эмоции (различные позы и т.д.).
 #### [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading) - мод, облегчающий трейдинг с жителями.
 #### [Bedrockify](https://modrinth.com/mod/bedrockIfy) - мод, добавляющий некоторый контент из бедрок версии игры.

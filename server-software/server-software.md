@@ -6,6 +6,7 @@
 
 #### Примечание: `*` - устаревшее / не поддерживаемое / нестабильное ядро.
 
+## Обычные ядра.
 
 | Название ядра | Описание | Версии игры |
 | --- | --- | --- |
@@ -16,19 +17,23 @@
 | [Airplane `*`](https://airplane.gg) | В процессе... | 1.16.5 - 1.17.1 |
 | [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) | В процессе... | 1.18+ |
 | [Purpur](https://github.com/PurpurMC/Purpur) | В процессе... | 1.16.5+ |
-| [Sugarcane](https://github.com/SugarcaneMC/Sugarcane) | В процессе... | 1.17+ |
+| [Sugarcane `*`](https://github.com/SugarcaneMC/Sugarcane) | В процессе... | 1.17+ |
 | [Jettpack `*`](https://gitlab.com/Titaniumtown/JettPack) | В процессе... | 1.17+ |
-| [Patina](https://github.com/PatinaMC/Patina) | В процессе... | 1.16.5+ |
+| [Patina `*`](https://github.com/PatinaMC/Patina) | В процессе... | 1.16.5+ |
 | [Akarin `*`](https://github.com/Akarin-project/Akarin) | В процессе... | 1.12.2 - 1.15.2 |
-| [Origami `*`](https://github.com/Akarin-project/Akarin) | В процессе... | 1.12.2 - 1.15.2 |
-| [Matter](https://github.com/plasmoapp/matter) | В процессе... | 1.18+ |
-| [Mirai](https://github.com/etil2jz/Mirai) | В процессе... | 1.18+ |
+| [Origami `*`](https://github.com/Minebench/Origami) | В процессе... | 1.14 - 1.16 |
+| [Matter `*`](https://github.com/plasmoapp/matter) | В процессе... | 1.18+ |
+| [Mirai `*`](https://github.com/etil2jz/Mirai) | В процессе... | 1.18+ |
 | [Prismarine `*`](https://github.com/PrismarineTeam/Prismarine) | В процессе... | 1.18+ |
+
+## Прокси - ядра.
+
+| Название ядра | Описание | Версии игры |
 | --- | --- | --- |
 | [Bungeecord](https://www.spigotmc.org/wiki/bungeecord-installation/) | В процессе... | В процессе... |
 | [Waterfall](https://github.com/PaperMC/Waterfall) | В процессе... | В процессе... |
 | [Velocity](https://github.com/PaperMC/Velocity) | В процессе... | В процессе... |
-| [FlameCord](https://github.com/2lstudios-mc/FlameCord) | В процессе... | В процессе... |
-| [Lightfall](https://github.com/ArclightPowered/lightfall) | В процессе... | В процессе... |
+| [FlameCord `*`](https://github.com/2lstudios-mc/FlameCord) | В процессе... | В процессе... |
+| [Lightfall `*`](https://github.com/ArclightPowered/lightfall) | В процессе... | В процессе... |
 
 <img src="https://raw.githubusercontent.com/saboooor/fork-graph/main/img.png">

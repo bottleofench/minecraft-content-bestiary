@@ -23,7 +23,7 @@
 | [Patina `***`](https://github.com/PatinaMC/Patina) | Форк Pufferfish с малой частью патчей JettPack, а также некоторыми патчами Yatopia. | 1.16.5+ |
 | [SSSpigot2 `***`](https://www.mc-market.org/resources/14122/) | Платный форк Patina от того же создателя. | 1.16.5+ |
 | [Matter `***`](https://github.com/plasmoapp/matter) | Форк Pufferfish от создателей [Plasmo Voice](https://modrinth.com/mod/plasmo-voice). Снабжен единственным патчем на скрытие сида мира от посторонних глаз. | 1.18+ |
-| [Mirai `***`](https://github.com/etil2jz/Mirai) | Форк Pufferfish с патчами Lithium, а также множеством интересных экспериментальных патчей. Примером таких патчей может быть интеграция мода [Alternate Current](https://modrinth.com/mod/alternate-current), который заменяет старый редстоун алгоритм на новый, мега быстрый. | 1.18+ |
+| [Mirai `***`](https://github.com/etil2jz/Mirai) | Форк Pufferfish с огромной кучей разных патчей, в которых вы просто утонете и ничего не поймете. Крайне не стабильно. | 1.18+ |
 | [Prismarine `***`](https://github.com/PrismarineTeam/Prismarine) | Новое никому неизвестное ядро. Будем следить за ним, быть может из него что-то получится. Крайне не рекомендуется к использованию на проде. | 1.18+ |
 
 ## Прокси.

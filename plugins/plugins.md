@@ -8,4 +8,6 @@
 
 | Название плагина | Специализация | Описание | Spigot API / Paper API | Версии игры |
 | --- | --- | --- | --- | --- |
-| WorldEdit | Управление миром | Классика. | Spigot API | 1.7.2+ |
+| [WorldEdit](https://dev.bukkit.org/projects/worldedit) | Управление миром | Классика. | Spigot API | 1.7.2+ |
+| [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)| Утилита | Классика. | Spigot API | 1.8+ |
+| [LuckPerms](https://luckperms.net) | Утилита | Плагин, позволяющий управлять правами игроков. | Spigot API | 1.8+ |

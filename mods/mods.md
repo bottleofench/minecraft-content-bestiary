@@ -47,7 +47,7 @@
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)| Утилита | Мод, позволяющий отображать ваш уровень насыщенности. | Forge / Fabric | 1.16.1+ |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)| Утилита | Мод, позволяющий легко просматривать рецепты крафта различных блоков и предметов. | Forge / Fabric | 1.16.3+ |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)| Дополнительный контент | Мод, добавляющий множество новых биомов. | Forge / Fabric | 1.8+ |
-| [Xaero's Minimap]https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap| Утилита | Мод, добавляющий миникарту. | Forge / Fabric | 1.7.10+ |
+| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)| Утилита | Мод, добавляющий миникарту. | Forge / Fabric | 1.7.10+ |
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)| Дополнительный контент | Мод, добавляющий множество новых мобов | Forge | 1.16.5+ |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)| Утилита | Мод, добавляющий описания зачарований во время просмотра зачарований в чаровальне. | Forge / Fabric | 1.10.2+ |
 | [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)| Дополнительный контент | Классика. | Forge / Fabric | 1.8.9 - 1.12.2 |

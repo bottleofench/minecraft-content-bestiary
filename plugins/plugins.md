@@ -20,3 +20,7 @@
 | [Dynmap](https://dev.bukkit.org/projects/dynmap) | Неопределено | Плагин, добавляющий 3D карты миров, которые можно просматривать через браузер. | Spigot API | 1.8+ |
 | [Geyser](https://geysermc.org) | Неопределено | Плагин, добавляющий возможность заходить с разных изданий игры. Например: плагин позволяет игрокам с Bedrock играть на сервере Java. | Spigot API | 1.14+ |
 | [Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/) | Неопределено | Плагин, позволяющий управлять разными мирами, изменять их настройки, с легкостью создавать новые миры по одной команде. | Spigot API | 1.13+ |
+| [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | Утилита | Плагин, позволяющий с помощью команд создавать новые чанки, тем самым заранее их прогружая для уменьшения лагов в будущем. | Spigot API | 1.13+ |
+| [InventoryRollback](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-18-x.85811/) | Утилита | Плагин, логирующий инвентари игроков, а затем позволяющий их просматривать, откатывать. | Spigot API | 1.8+ |
+| [AntiSeedCracker](https://www.spigotmc.org/resources/antiseedcracker-1-15-1-16-x.81495/) | Утилита | Плагин, исправляющий баг, который позволяет получать сид мира, даже если у вас нет на это прав. | Spigot API | 1.15 - 1.16 |
+| [Spark](https://www.spigotmc.org/resources/spark.57242/) | Управление миром | Плагин-профайлер, помогающий понять причину лагов на сервере. | Spigot API | 1.8+ |

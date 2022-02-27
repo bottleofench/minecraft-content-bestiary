@@ -51,3 +51,6 @@
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)| Дополнительный контент | Мод, добавляющий множество новых мобов | Forge | 1.16.5+ |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)| Утилита | Мод, добавляющий описания зачарований во время просмотра зачарований в чаровальне. | Forge / Fabric | 1.10.2+ |
 | [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)| Дополнительный контент | Классика. | Forge / Fabric | 1.8.9 - 1.12.2 |
+| [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)| Утилита | Мод, позволяющий с легкостью строить различные постройки по визуальным схемам. | Fabric | 1.15.2+ |
+| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)| Дополнительный контент | Классика. | Forge / Fabric | 1.7.10 - 1.17.1 |
+| [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)| Утилита | Мод, показывающий на экране доп. инфу о мобах и блоках из любых модов, на которые смотрит игрок. | Forge / Fabric | 1.10.2 - 1.16.5 |

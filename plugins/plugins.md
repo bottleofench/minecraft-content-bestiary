@@ -24,3 +24,4 @@
 | [InventoryRollback](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-18-x.85811/) | Утилита | Плагин, логирующий инвентари игроков, а затем позволяющий их просматривать, откатывать. | 1.8+ |
 | [AntiSeedCracker](https://www.spigotmc.org/resources/antiseedcracker-1-15-1-16-x.81495/) | Утилита | Плагин, исправляющий баг, который позволяет получать сид мира, даже если у вас нет на это прав. | 1.15 - 1.16 |
 | [Spark](https://www.spigotmc.org/resources/spark.57242/) | Утилита | Плагин-профайлер, помогающий понять причину лагов на сервере. | 1.8+ |
+| [mChat](https://github.com/bottleofench/mChat), [Chatty](https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-5-2-1-18.59411/) | Утилита | Плагины на чат (Глобальный и локальный чаты, приватные сообщения) | 1.18+ |

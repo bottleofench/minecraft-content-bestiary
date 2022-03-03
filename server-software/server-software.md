@@ -29,9 +29,9 @@
 
 | Название ядра | Описание |
 | --- | --- |
-| [Bungeecord](https://www.spigotmc.org/wiki/bungeecord-installation/) | В процессе... |
-| [Waterfall](https://github.com/PaperMC/Waterfall) | В процессе... |
-| [Velocity](https://github.com/PaperMC/Velocity) | В процессе... |
+| [Bungeecord](https://www.spigotmc.org/wiki/bungeecord-installation/) | Прокси-сервер, позволяющий соединять несколько Spigot-серверов в один единый комплекс серверов. |
+| [Waterfall](https://github.com/PaperMC/Waterfall) | Форк Bungeecord, более оптимизированный. |
+| [Velocity](https://github.com/PaperMC/Velocity) | Аналог Waterfall, но полностью переписанный. |
 | [SSCord](https://www.mc-market.org/resources/14562/) | Платный форк Bungeecord. |
 | [FlameCord](https://github.com/2lstudios-mc/FlameCord) | В процессе... |
 | [Lightfall](https://github.com/ArclightPowered/lightfall) | В процессе... |

@@ -6,6 +6,8 @@
 
 #### Примечание: `*` - не стабильный
 
+#### API - специальный раздел в плагинах (да и не только в них), который позволяет быстро и удобно использовать функции одного плагина внутри другого.
+
 | Название плагина | Специализация | Описание | Версии игры |
 | --- | --- | --- | --- |
 | [WorldEdit](https://dev.bukkit.org/projects/worldedit) | Управление миром | Классика. | 1.7.2+ |
@@ -15,7 +17,7 @@
 | [Grim Anticheat](https://www.spigotmc.org/resources/grim-anticheat.99923/)| Утилита | Античит. (Не проверялся) | 1.17+ |	
 | [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | Библиотека | API для работы с пакетами. Позволяет делать множество разных интересных вещей, по типу визуальных блоков или существ. | 1.8+ |
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | Утилита | Плагин, позволяющий с лёгкостью создавать разнообразные GUI меню. | 1.12+ |
-| [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) | Библиотека | API для работы с плейсхолдерами - динамические переменные. (Например: %player_name% - ник игрока, и т.д.) | 1.8+ |
+| [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) | Библиотека | API для работы с плейсхолдерами - динамическими переменными. (Например: %player_name% - ник игрока, и т.д.) | 1.8+ |
 | [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/), [Prism](https://www.spigotmc.org/resources/prism.75166/) | Управление миром | Плагины, позволяющие логировать огромное кол-во действий сущностей, а затем их просматривать, откатывать. | 1.14+ |
 | [Dynmap](https://dev.bukkit.org/projects/dynmap), [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/), [squaremap](https://github.com/jpenilla/squaremap) | Доп. возможности | Плагины, добавляющие 3D карты миров, которые можно просматривать через браузер. | 1.8+ |
 | [Geyser](https://geysermc.org) | Доп. возможности | Плагин, добавляющий возможность заходить с разных изданий игры. Например: плагин позволяет игрокам с Bedrock играть на сервере Java. | 1.14+ |

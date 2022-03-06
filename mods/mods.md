@@ -43,7 +43,7 @@
 | [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros)| Утилита | Мод, добавляющий бинды на команды. | Fabric | 1.16.5+|
 | [Emotecraft](https://modrinth.com/mod/emotecraft)| Дополнительный контент | Мод, добавляющий различные эмоции (различные позы и т.д.). | Forge / Fabric | 1.16.5+|
 | [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading)| Утилита | Мод, облегчающий трейдинг с жителями. | Fabric | 1.16.5 - 1.17.1|
-| [PurpurClient](https://github.com/PurpurMC/PurpurClient)| Дополнительный контент | Мод, позволяющий полностью использовать контент серверного ядра [Purpur](https://github.com/PurpurMC/Purpur) | Fabric | 1.18.1+ |
+| [PurpurClient](https://modrinth.com/mod/purpurclient)| Дополнительный контент | Мод, позволяющий полностью использовать контент серверного ядра [Purpur](https://github.com/PurpurMC/Purpur) | Fabric | 1.18.1+ |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)| Утилита | Мод, позволяющий отображать ваш уровень насыщенности. | Forge / Fabric | 1.16.1+ |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)| Утилита | Мод, позволяющий легко просматривать рецепты крафта различных блоков и предметов. | Forge / Fabric | 1.16.3+ |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)| Дополнительный контент | Мод, добавляющий множество новых биомов. | Forge / Fabric | 1.8+ |

@@ -27,6 +27,7 @@
 | [Nova](https://www.spigotmc.org/resources/nova-✨-custom-blocks-✅-items-✅-guis-✅-modpack-like-fully-configurable.93648/) | Доп. возможности | IndustrialCraft2 без модов и как плагин. | 1.18+ |
 | [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | Библиотека | API для работы с пакетами. Позволяет делать множество разных интересных вещей, по типу визуальных блоков или существ. | 1.8+ |
 | [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) | Библиотека | API для работы с плейсхолдерами - динамическими переменными. (Например: %player_name% - ник игрока, и т.д.) | 1.8+ |
+| [Plasmo Emotes](https://www.spigotmc.org/resources/plasmo-emotes.100598/) | Доп. возможности | Добавляет эмодзи в игру. Плагин не конфликтует с большей частью плагинов на чат. | 1.18+ |
 | [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/) | Доп. возможности | Плагин, позволяющий сделать себя полностью невидимым для всех игроков. Вас также скроет в списке игроков. Данный плагин поддерживают множество других плагинов на чат, таб и т.д. | 1.7+ |
 | [TAB](https://github.com/NEZNAMY/TAB) | Доп. возможности | Плагин, позволяющий кастомизировать таб-лист сервера (список игроков). | 1.13+ |
 | [Vault](https://www.spigotmc.org/resources/vault.34315/)| Библиотека | API для плагинов на права игроков и многих других. | 1.13+ |	

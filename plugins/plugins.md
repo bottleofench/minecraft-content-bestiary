@@ -17,6 +17,7 @@
 | [Dynmap](https://dev.bukkit.org/projects/dynmap), [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/), [squaremap](https://github.com/jpenilla/squaremap) | Доп. возможности | Плагины, добавляющие 3D карты миров, которые можно просматривать через браузер. | 1.8+ |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | Доп. возможности | Плагин, позволяющий связать Discord-сервер и Minecraft-сервер через Discord бота. | 1.7+ |
 | [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)| Утилита | Классика. | 1.8+ |
+| [FartherViewDistance](https://www.spigotmc.org/resources/fartherviewdistance.84950/)| Доп. возможности | Плагин, позволяющий ставить любую прорисовку для игроков, не нагружая сервер. Доп. прорисовка будет только на стороне у игроков, сервер все это не будет. | 1.8+ |
 | [Geyser](https://geysermc.org) | Доп. возможности | Плагин, добавляющий возможность заходить с разных изданий игры. Например: плагин позволяет игрокам с Bedrock играть на сервере Java. | 1.14+ |
 | [Grim Anticheat](https://www.spigotmc.org/resources/grim-anticheat.99923/)| Утилита | Античит. (Не проверялся) | 1.17+ |	
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/) | Доп. возможности | Плагин, позволяющий сидеть на любых блоках. | 1.14+ |

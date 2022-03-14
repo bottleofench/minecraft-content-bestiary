@@ -12,7 +12,8 @@
 | [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)| Оптимизация | Мод, уменьшающий лаги, непросредственно связанные с искусственным интеллектом мобов. | Forge | 1.7.10+|
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)| Утилита | Мод, позволяющий отображать ваш уровень насыщенности. | Forge / Fabric | 1.16.1+ |
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)| Дополнительный контент | Мод, добавляющий множество новых мобов | Forge | 1.16.5+ |
-| [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)| Утилита | Мод, который улучшает F3 (меню отладки). | Forge / Fabric | 1.16.5+|
+| [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)| Утилита | Мод, который улучшает F3 (меню отладки). | Forge / Fabric | 1.16.5+ |
+| [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)| Утилита | Мод, которые увидеть точный пинг игрока на сервере. Пинг будет указан рядом с ником в TAB-листе (списке игроков сервера). | Forge / Fabric | 1.7.10+ |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)| Дополнительный контент | Мод, добавляющий множество новых биомов. | Forge / Fabric | 1.8+ |
 | [C2ME `*`](https://modrinth.com/mod/c2me-fabric)| Оптимизация | Мод, ускоряющий загрузку чанков до немыслимых значений. | Fabric | 1.17+|
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn)| Утилита | Мод, добавляющий поддержку ресурспаков с переименованием. | Fabric | 1.17+|
@@ -31,6 +32,7 @@
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)| Оптимизация | Мод, снижающий использование сетевого трафика между клиентом и сервером, во время использования верстака | Fabric | 1.16.5|
 | [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)| Оптимизация | Мод, уменьшающий лаги с печками. | Forge / Fabric | 1.17+|
 | [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)| Утилита | Мод, показывающий на экране доп. инфу о мобах и блоках из любых модов, на которые смотрит игрок. | Forge / Fabric | 1.10.2 - 1.16.5 |
+| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)| Утилита | Мод, позволяющий легко сортировать предметы в сундуках и других инвентарях. | Forge / Fabric | 1.14.4+|
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)| Утилита | Мод, позволяющий легко просматривать рецепты крафта различных блоков и предметов. | Forge / Fabric | 1.16.3+ |
 | [Krypton](https://modrinth.com/mod/krypton)| Оптимизация | Мод, оптимизирующий соединения между клиентом и сервером. Также содержит различные микро-оптимизации, а также уменьшение использования ОЗУ. | Fabric | 1.16.5+|
 | [Ksyxis `*`](https://www.curseforge.com/minecraft/mc-mods/ksyxis)| Оптимизация | Мод, ускоряющий загрузку мира при заходе. | Forge | 1.17+|

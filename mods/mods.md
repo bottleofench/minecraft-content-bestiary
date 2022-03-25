@@ -38,6 +38,7 @@
 | [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)| Утилита | При наведении на блок/моба появится всплывающее окно с его названием, к какому моду принадлежит и полезная информация о нем. | Forge / Fabric | 1.10.2 - 1.16.5 |
 | [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)| Утилита | Мод, позволяющий легко сортировать предметы в сундуках и других инвентарях. | Forge / Fabric | 1.14.4+|
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)| Утилита | Мод, являющийся аналогом [NotEnoughItems](https://www.curseforge.com/minecraft/mc-mods/notenoughitems) и Too Many Items, с его помощью вы сможете получить игровые предметы и посмотреть рецепты предметов и блоков из майнкрафт. | Forge / Fabric | 1.16.3+ |
+| [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen)| Оптимизация | Мод, убирающий долгую загрузку мира в одиночке / на сервере. | Fabric | 1.18+|
 | [Krypton](https://modrinth.com/mod/krypton)| Оптимизация | Мод, оптимизирующий соединения между клиентом и сервером. Также содержит различные микро-оптимизации, а также уменьшение использования ОЗУ. | Fabric | 1.16.5+|
 | [Ksyxis `*`](https://www.curseforge.com/minecraft/mc-mods/ksyxis)| Оптимизация | Мод, ускоряющий загрузку мира при заходе. | Forge | 1.17+|
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)| Облегчение игры | Мод, добавляющий динамическое освещение без Optifine. | Fabric | 1.16+|

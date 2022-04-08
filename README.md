@@ -4,4 +4,5 @@
 
 - [Моды](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/mods/mods.md) 
 - [Плагины](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/plugins/plugins.md) 
+- [Ресурспаки](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/resourcepacks/resourcepacks.md) 
 - [Ядра](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/server-software/server-software.md)

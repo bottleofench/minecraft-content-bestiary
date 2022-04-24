@@ -6,7 +6,9 @@
 
 | Название | Описание | Версии игры | Нужен ли Optifine? |
 | --- | --- | --- | --- |
-| [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) | Ресурспак, сильно изменяющий анимации мобов. Например: зомби ходят, наклоня голову вперед; у разных мобов двигаются глаза и т.д.. | 1.18+ | + |
-| [Lighter Water](https://www.planetminecraft.com/texture-pack/lighter-water/) | Ресурспак, делающий текстуры воды более прозрачной. | 1.18+ | + |
-| [Visual Fish Buckets](https://www.curseforge.com/minecraft/texture-packs/visual-fish-buckets) | Ресурспак, визуально отображающий, какая рыба находится в ведре с водой. Отображаться могут все 800+ вариаций тропических рыб и не только. | 1.16.5+ | + |
-| [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) | Большой сборник различных мелких ресурспаков на любой вкус и цвет. | 1.11+ | - |
+| [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) | Ресурспак, сильно изменяющий анимации мобов. Например: зомби ходят, наклоня голову вперед; у разных мобов двигаются глаза и т.д.. | 1.18+ | ✅ |
+| [Lighter Water](https://www.planetminecraft.com/texture-pack/lighter-water/) | Ресурспак, делающий текстуры воды более прозрачной. | 1.18+ | ✅ |
+| [Visual Fish Buckets](https://www.curseforge.com/minecraft/texture-packs/visual-fish-buckets) | Ресурспак, визуально отображающий, какая рыба находится в ведре с водой. Отображаться могут все 800+ вариаций тропических рыб и не только. | 1.16.5+ | ✅ |
+| [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) | Большой сборник различных мелких ресурспаков на любой вкус и цвет. | 1.11+ | ❌ |
+| [Simple Grass Flowers](https://www.curseforge.com/minecraft/texture-packs/simple-grass-flowers) | Ресурспак обновит блоки травы, добавив для них различные варианты текстур. Теперь на дёрне будут случайно появляться клевер, камни, цветы и другие мелкие детали. | 1.16.5+ | ✅ |
+| [Flower Golems](https://www.planetminecraft.com/texture-pack/flower-golem/) | Ресурспак придаёт разнообразия големам. Теперь, кроме обычных маков, на теле големов будут красоваться другие виды цветов. | 1.17.1+ | ✅ |

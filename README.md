@@ -5,5 +5,5 @@
 - [Моды](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/mods/mods.md) 
 - [Плагины](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/plugins/plugins.md) 
 - [Ресурспаки](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/resourcepacks/resourcepacks.md) 
-- [Софт](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/software/software.md)
 - [Ядра](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/server-software/server-software.md)
+- [Программы и сайты](https://github.com/bottleofench/minecraft-content-bestiary/blob/main/software/software.md)

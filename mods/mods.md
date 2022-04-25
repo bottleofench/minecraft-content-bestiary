@@ -30,6 +30,7 @@
 | [Debugify](https://modrinth.com/mod/debugify/)| Утилита | Мод, исправляющий множество неприятных багов. | Fabric | 1.18.2+|
 | [Detail Armor Bar](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar)| Утилита | Мод, позволяющий улучшить арморбар (показатель кол-ва брони над здоровьем) | Forge / Fabric | 1.16.5+|
 | [Don't Clear Chat History](https://modrinth.com/mod/dcch/)| Утилита | Мод, отменяющий очистку истории чата при перезаходах в мир или на сервер. | Fabric | 1.14.4+|
+| [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) | Утилита | Мод, позволяющий увеличивать прорисовку чанков до просто немыслимых значений с незначительным понижением FPS. Скорее всего не будет совместим с Optifine и Sodium, но это не точно. | Forge / Fabric | 1.16.4 +|
 | [DynamicFPS](https://modrinth.com/mod/dynamic-fps)| Оптимизация | Мод, который будет автоматически снижать фпс во время сворачивания и бездействия игры. Это позволит значительно снизить нагрузку на компьютер. | Fabric | 1.17+|
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer)| Утилита | Мод, добавляющий худ на экране, позволяющий смотреть прочность брони и инструментов, не заглядывая в инвентарь. | Forge / Fabric | 1.16.5+|
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)| Оптимизация | Мод, уменьшающий лаги при прогрузке блок-энтити (сундуки, печки, воронки и т.д.) | Fabric | 1.17+|

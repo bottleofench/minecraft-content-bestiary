@@ -28,7 +28,7 @@
 | [Spark](https://www.spigotmc.org/resources/spark.57242/) | Утилита | Плагин-профайлер, помогающий понять причину лагов на сервере. | 1.8+ |
 | [LuckPerms](https://luckperms.net) | Утилита | Плагин, позволяющий управлять правами игроков. | 1.8+ |
 | [Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/) | Утилита | Плагин, позволяющий управлять разными мирами, изменять их настройки, с легкостью создавать новые миры по одной команде. | 1.13+ |
-| [mChat](https://github.com/bottleofench/mChat), [Chatty](https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-5-2-1-18.59411/) | Утилита | Плагины на чат (Глобальный и локальный чаты, приватные сообщения) | 1.18+ |
+| [Chatty](https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-5-2-1-18.59411/) | Утилита | Плагины на чат (Глобальный и локальный чаты, приватные сообщения) | 1.18+ |
 | [Nova](https://www.spigotmc.org/resources/nova-✨-custom-blocks-✅-items-✅-guis-✅-modpack-like-fully-configurable.93648/) | Доп. возможности | IndustrialCraft2 без модов и как плагин. | 1.18+ |
 | [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | Библиотека | API для работы с пакетами. Позволяет делать множество разных интересных вещей, по типу визуальных блоков или существ. | 1.8+ |
 | [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) | Библиотека | API для работы с плейсхолдерами - динамическими переменными. (Например: %player_name% - ник игрока, и т.д.) | 1.8+ |
